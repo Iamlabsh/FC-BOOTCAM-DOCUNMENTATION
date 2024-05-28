@@ -15,7 +15,12 @@ This is a documentation of various activities carried out as a student at the Fu
 ```
 Google query sheet
 
-SELECT* FROM TABLE 1
-WHERE CONDITION = WET
+=QUERY(A:H,"SELECT A,B,C WHERE B LIKE'R%'",1)
+
 ```
-![](passport.1jpg)
+![](https://github.com/Iamlabsh/FC-BOOTCAM-DOCUNMENTATION/blob/main/passport%201.jpg)
+
+|NAME| AGE| CLASS|
+|------|------|------|
+|BOLA|27 YEARS| 400L|
+
